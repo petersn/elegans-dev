@@ -1,0 +1,6 @@
+# Standard Elegans library type specifications
+
+print :: ext_call :: Integer :: Nil
+print :: ext_call :: External :: Integer
+exit  :: ext_call :: Nil :: Nil
+

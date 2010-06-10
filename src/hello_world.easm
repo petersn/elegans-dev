@@ -1,0 +1,11 @@
+
+ENTRY origin
+
+INT 1337
+
+LOOKUP print
+LOOKUP print
+CALL
+LOOKUP print
+CALL
+
